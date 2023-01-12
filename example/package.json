@@ -5,12 +5,12 @@
   "keywords": [],
   "main": "src/index.js",
   "devDependencies": {
-    "cypress": "^5.1.0",
+    "cypress": "^7.2.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-map-gl": "5.2.3",
     "react-map-gl-geocoder": "file:../",
-    "react-scripts": "^3.4.3"
+    "react-scripts": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
