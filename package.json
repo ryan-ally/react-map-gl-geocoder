@@ -46,7 +46,7 @@
   "dependencies": {
     "@mapbox/mapbox-gl-geocoder": "4.7.0",
     "prop-types": "^15.7.2",
-    "viewport-mercator-project": "6.1.1"
+    "viewport-mercator-project": "7.0.4"
   },
   "peerDependencies": {
     "react-map-gl": ">= 4.0.0"
